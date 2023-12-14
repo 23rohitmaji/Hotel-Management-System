@@ -1,4 +1,4 @@
-* Hotel Management System *
+Hotel Management System
 
 Hotel Management System made using Java core concept called swing and database used is MySql
 
